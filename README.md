@@ -88,7 +88,7 @@ By identifying groups of customers with similar patterns, businesses can gain us
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Varsha A**
 
