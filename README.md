@@ -28,7 +28,7 @@ The project uses a customer dataset containing **1,000 records and 9 columns**.
 
 ---
 
-## 🧠 Machine Learning Algorithm
+##  Machine Learning Algorithm
 
 ### K-Means Clustering
 
@@ -80,7 +80,7 @@ These segments can support business decisions such as:
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project demonstrates how **K-Means clustering** can be used to segment customers based on their characteristics and purchasing behavior.
 
@@ -90,8 +90,8 @@ By identifying groups of customers with similar patterns, businesses can gain us
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Varsha A**
 
-GitHub: `https://github.com/your-username`
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
 
 ---
